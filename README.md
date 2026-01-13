@@ -19,7 +19,7 @@ El nuevo diseño permite **transmitir energía y datos de manera simultánea med
 ![Prototipo](https://github.com/user-attachments/assets/abc74fc5-2a2a-4aab-b4e1-cb98b78a40ae)
 
 ### Diseño de PCB
-<img src=".img/pcb.png" alt="Diseño PCB" width="470">
+<img src="img/pcb.png" alt="Diseño PCB" width="470">
 
 ---
 
