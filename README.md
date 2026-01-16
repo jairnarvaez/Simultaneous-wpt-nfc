@@ -15,9 +15,6 @@ The new design allows for the **simultaneous transmission of power and data via 
 
 ## Project Images
 
-### Functional Prototype  
-![Prototype](https://github.com/user-attachments/assets/abc74fc5-2a2a-4aab-b4e1-cb98b78a40ae)
-
 ### PCB Design
 <img src="img/pcb.png" alt="PCB Design" width="470">
 
